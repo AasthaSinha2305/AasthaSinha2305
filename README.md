@@ -29,7 +29,7 @@ My Name is Aastha Sinha and I'm a Web Developer. Currently I'm in my second year
 ### GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/AasthaSinha2305/AasthaSinha2305">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaSinha2305&langs_count=4&count_private=true&theme=vue" alt="Aastha's GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaSinha2305&langs_count=6&count_private=true&theme=vue" alt="Aastha's GitHub" />
 </a>
 <a href="https://github.com/AasthaSinha2305/AasthaSinha2305">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AasthaSinha2305&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Aastha's GitHub Stats" />
